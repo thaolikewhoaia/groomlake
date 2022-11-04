@@ -1,1 +1,1 @@
-Fix TypeError in check_cfg() (#9245)
+Add object blurring & object cropping modules in Ultralytics docs (#7434)
