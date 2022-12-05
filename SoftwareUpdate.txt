@@ -1,1 +1,1 @@
-Update TFLite Docs images (#8605)
+ultralytics 8.1.0 YOLOv8 Oriented Bounding Box (OBB) release (#7463)
