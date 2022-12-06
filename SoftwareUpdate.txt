@@ -1,1 +1,1 @@
-Compress docs images (#8124)
+YOLOv8 INT8 TFLite Inference Example (#7317)
