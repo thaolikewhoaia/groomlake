@@ -1,1 +1,1 @@
-Python refactorings and simplifications (#7549)
+Add docstrings to new HUB functions (#7576)
