@@ -1,1 +1,1 @@
-Docs partial mdformat improvements (#7378)
+Python refactorings and simplifications (#7549)
