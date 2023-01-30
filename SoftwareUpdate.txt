@@ -1,1 +1,1 @@
-Bump codecov/codecov-action from 3 to 4 in /.github/workflows (#8022)
+Add https://youtu.be/OpWpBI35A5Y to inference-api Docs (#8717)
