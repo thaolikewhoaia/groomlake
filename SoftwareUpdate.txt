@@ -1,1 +1,1 @@
-Move Explorer tests to scheduled CI (#8305)
+Do RTDETR file suffix check using pathlib instead of string manipulations (#8525)
