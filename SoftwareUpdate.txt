@@ -1,1 +1,1 @@
-ultralytics 8.1.30 add advanced HUB train arguments (#9110)
+Add PR Summary step to Ultralytics Actions (#7675)
