@@ -1,1 +1,1 @@
-Update Twitter icon in Docs (#7711)
+Clean up unused imgsz (#7771)
