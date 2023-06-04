@@ -1,1 +1,1 @@
-Segment TensorRT batch=3 fix (#7952)
+Add line counting and circular heatmaps in Ultralytics Solutions (#7113)
