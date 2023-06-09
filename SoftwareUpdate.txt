@@ -1,1 +1,1 @@
-Fix heatmaps width-height order bug (#7184)
+Updated SQL Query Plot Code (#8120)
