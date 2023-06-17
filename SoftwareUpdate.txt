@@ -1,1 +1,1 @@
-Add Non-Maximum Suppression (NMS) inplace flag (#8368)
+Update Discord and Contributing Guide URLs (#9270)
