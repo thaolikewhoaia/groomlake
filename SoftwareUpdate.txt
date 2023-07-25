@@ -1,1 +1,1 @@
-Fix PNNX ubuntu -> linux bug (#7050)
+Update YOLOv3 and YOLOv5 YAMLs (#7574)
