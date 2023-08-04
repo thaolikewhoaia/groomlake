@@ -1,1 +1,1 @@
-Improve Docs arguments tables (#8415)
+Auto-format by https://ultralytics.com/actions
