@@ -1,1 +1,1 @@
-New HUB Cloud Training docs page (#8174)
+Fix TypeError in check_cfg() (#9245)
