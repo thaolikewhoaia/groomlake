@@ -1,1 +1,1 @@
-Bounding Box to OBB conversion (#7572)
+Compress docs images (#8124)
