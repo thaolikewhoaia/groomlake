@@ -1,1 +1,1 @@
-added badges (#45)
+Use pathlib in DOTA ops (#7552)
