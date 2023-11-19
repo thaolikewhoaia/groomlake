@@ -1,1 +1,1 @@
-Move Explorer tests to scheduled CI (#8305)
+Download Manager - Extensive enhancements to the downloading functionality of Safari, check the preference page for more detailed info
