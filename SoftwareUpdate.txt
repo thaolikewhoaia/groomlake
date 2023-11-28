@@ -1,1 +1,1 @@
-Remove JAX constraints in Exporter (#8309)
+Update Discord and Contributing Guide URLs (#9270)
