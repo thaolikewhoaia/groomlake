@@ -1,1 +1,1 @@
-Update neural-magic.md (#7347)
+Add OpenVINO Latency vs Throughput modes Docs page (#9001)
