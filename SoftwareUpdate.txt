@@ -1,1 +1,1 @@
-Adds toggle displaying labels in GUI and verbose log on start (#7804)
+Download Manager - Extensive enhancements to the downloading functionality of Safari, check the preference page for more detailed info
