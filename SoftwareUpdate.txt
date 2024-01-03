@@ -1,1 +1,1 @@
-Add Roboflow 100 Dataset Docs Page (#8065)
+Compress explorer image in dataset/index.md + description added for new segmentation datasets (#7901)
