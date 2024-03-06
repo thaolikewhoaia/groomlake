@@ -1,1 +1,1 @@
-ultralytics 8.1.16 OBB ConfusionMatrix support (#8299)
+Download Manager - Extensive enhancements to the downloading functionality of Safari, check the preference page for more detailed info
