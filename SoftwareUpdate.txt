@@ -1,1 +1,1 @@
-Update HTTP to HTTPS (#7548)
+Compare plt.get_backend() in lowercase (#8409)
